@@ -7,9 +7,9 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/magnanim_tacm?igsh=aHF6ZnlyejJhaXhn)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kanyet.c.m?_r=1&t=ZS-97TMOM4WPPF)
 
-¡Hola! Soy un apasionado de la ingeniería de software y la ciberseguridad. En este espacio comparto proyectos enfocados en el desarrollo de aplicaciones seguras, administración de servidores y proyectos sobre la utilización básica de Python y JavaScript.
+!Hola! Soy un apasionado de la ingenierÃ­a de software y la ciberseguridad. En este espacio comparto proyectos enfocados en el desarrollo de aplicaciones seguras, administraciÃ³n de servidores y proyectos sobre la utilizaciÃ³n bÃ¡sica de Python y JavaScript.
 
-Me encanta explorar nuevas tecnologías y transformar ideas en código eficiente y funcional. ¡Te invito a explorar mis repositorios! Si ves algo que te interese, no dudes en contactarme.
+Me encanta explorar nuevas tecnologÃ­as y transformar ideas en codigo eficiente y funcional. !Te invito a explorar mis repositorios! Si ves algo que te interese, no dudes en contactarme.
 
 ### Skills
 
